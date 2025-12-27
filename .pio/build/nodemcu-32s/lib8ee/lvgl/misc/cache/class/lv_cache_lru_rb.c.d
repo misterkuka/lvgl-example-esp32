@@ -1,0 +1,30 @@
+.pio/build/nodemcu-32s/lib8ee/lvgl/misc/cache/class/lv_cache_lru_rb.c.o: \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/lv_cache_lru_rb.c \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/lv_cache_lru_rb.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../lv_cache_private.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../lv_types.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../../lv_conf_internal.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../../lv_conf_kconfig.h \
+ /home/igor/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/dio_qspi/include/sdkconfig.h \
+ /home/igor/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_attr.h \
+ include/lv_conf.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../../osal/lv_os_private.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../../osal/../lv_conf_internal.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../../osal/lv_os.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../../osal/../misc/lv_types.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../../osal/lv_os_none.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../lv_cache_entry.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../../stdlib/lv_sprintf.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../../stdlib/../misc/lv_types.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../../stdlib/lv_string.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../../stdlib/../lv_conf_internal.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../lv_ll.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../lv_types.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../lv_rb_private.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../lv_rb.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../lv_assert.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../lv_log.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../../stdlib/lv_mem.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../../stdlib/lv_string.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../lv_rb.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/misc/cache/class/../../lv_iter.h

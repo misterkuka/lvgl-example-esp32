@@ -1,0 +1,27 @@
+.pio/build/nodemcu-32s/lib8ee/lvgl/others/monkey/lv_monkey.c.o: \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/lv_monkey.c \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/lv_monkey_private.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/lv_monkey.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../lv_conf_internal.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../lv_conf_kconfig.h \
+ /home/igor/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/dio_qspi/include/sdkconfig.h \
+ /home/igor/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_attr.h \
+ include/lv_conf.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/lv_indev.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../core/lv_group.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../core/../lv_conf_internal.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../core/../misc/lv_types.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../core/../misc/../lv_conf_internal.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../core/../misc/lv_ll.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../core/../misc/lv_types.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../misc/lv_area.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../misc/../lv_conf_internal.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../misc/lv_types.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../misc/lv_math.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../misc/lv_timer.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../misc/../tick/lv_tick.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../misc/../tick/../lv_conf_internal.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../misc/../tick/../misc/lv_types.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../misc/lv_ll.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../misc/lv_event.h \
+ .pio/libdeps/nodemcu-32s/lvgl/src/others/monkey/../../indev/../misc/lv_array.h
